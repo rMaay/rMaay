@@ -10,6 +10,8 @@ Olá! 👋 Me chamo Mayara!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rMaay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rMaay&layout=compact&langs_count=7&theme=dark"/>
   
+   ![maypic](https://user-images.githubusercontent.com/96890495/147838731-ddc3d06a-ef5f-4135-b0f5-d82672a0d596.gif)
+
    
 </div>
   
